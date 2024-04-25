@@ -361,7 +361,11 @@ nav ul li {
     max-width: 960px;   
 
 }
-
-
+.card-1 {
+   
+    width: 230px; 
+    height: 350px;
+    transition: transform 0.3s ease; 
+}
 
 }
